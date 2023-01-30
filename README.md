@@ -1,0 +1,1 @@
+Rotating navigation bar on mock article
